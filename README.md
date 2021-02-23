@@ -6,7 +6,7 @@
   <a href="https://github.com/Diwamoto/">
     <img src="https://komarev.com/ghpvc/?username=diwamoto" alt="Diwamoto" />
   </a>
-  <a href="http://twitter.com/Diwamoto">
+  <a href="http://twitter.com/Diwamoto_">
     <img height="20" src="https://img.shields.io/twitter/follow/Diwamoto_?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Diwamoto">
@@ -18,16 +18,16 @@
   <a href="https://qiita.com/Diwamoto">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Diwamoto/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/Diwamoto">
+  <a href="https://zenn.dev/diwamoto">
     <img height="20" src="hhttps://zenn-badge.ganariya.vercel.app/Diwamoto/liked" />
   </a>
-  <a href="https://zenn.dev/Diwamoto">
+  <a href="https://zenn.dev/diwamoto">
     <img height="20" src="https://zenn-badge.ganariya.vercel.app/Diwamoto/followers" />
   </a>
-  <a href="https://zenn.dev/Diwamoto">
+  <a href="https://zenn.dev/diwamoto">
     <img height="20" src="https://zenn-badge.ganariya.vercel.app/Diwamoto/articles" />
   </a>
-  <a href="https://zenn.dev/Diwamoto">
+  <a href="https://zenn.dev/dwamoto">
     <img height="20" src="https://zenn-badge.ganariya.vercel.app/Diwamoto/articles" />
   </a>
 </p>
