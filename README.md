@@ -19,16 +19,16 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/Diwamoto/contributions.svg" />
   </a>
   <a href="https://zenn.dev/diwamoto">
-    <img height="20" src="hhttps://zenn-badge.ganariya.vercel.app/Diwamoto/liked" />
+    <img height="20" src="https://zenn-badge.ganariya.vercel.app/diwamoto/liked" />
   </a>
   <a href="https://zenn.dev/diwamoto">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/Diwamoto/followers" />
+    <img height="20" src="https://zenn-badge.ganariya.vercel.app/diwamoto/followers" />
   </a>
   <a href="https://zenn.dev/diwamoto">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/Diwamoto/articles" />
+    <img height="20" src="https://zenn-badge.ganariya.vercel.app/diwamoto/articles" />
   </a>
-  <a href="https://zenn.dev/dwamoto">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/Diwamoto/articles" />
+  <a href="https://zenn.dev/diwamoto">
+    <img height="20" src="https://zenn-badge.ganariya.vercel.app/diwamoto/articles" />
   </a>
 </p>
 
