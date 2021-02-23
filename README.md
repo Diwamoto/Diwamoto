@@ -1,6 +1,5 @@
 ### Hi there 👋  I'm Diwamoto!
 
-### I'm a software Engineer.
 
 <p align="left"> 
   <a href="https://github.com/Diwamoto/">
