@@ -1,12 +1,5 @@
 
-```shell
-$ whoami
-> Hi there 👋  I am Diwamoto!
-> I am a software Engineer.
-> I can Use PHP and GO.
-> I am currently learning Go and Vue.js.
-> My motto is [If you do it, it will happen. If you dont, you will not happen.]
-```
+
 
 <p align="left"> 
   <a href="https://github.com/Diwamoto/">
