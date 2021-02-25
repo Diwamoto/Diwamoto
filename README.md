@@ -5,7 +5,7 @@ $ whoami
 > I am a software Engineer.
 > I can Use PHP and GO.
 > I am currently learning Go and Vue.js.
-> My motto is [If you do it, it will happen. If you dont, you will not happen.]
+> My motto is [If you do it, it will happen. If you dont, you won't do it.]
 ```
 
 <p align="left"> 
