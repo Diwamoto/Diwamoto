@@ -35,9 +35,6 @@ $ whoami
   <a href="https://zenn.dev/diwamoto">
     <img height="20" src="https://zenn-badge.ganariya.vercel.app/diwamoto/articles" />
   </a>
-  <a href="https://zenn.dev/diwamoto">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/diwamoto/articles" />
-  </a>
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
