@@ -26,17 +26,6 @@ $ whoami
     <img height="20" src="https://qiita-badge.apiapi.app/s/Diwamoto/contributions.svg" />
   </a>
 </p>
-<p>
-  <a href="https://zenn.dev/diwamoto">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/diwamoto/liked" />
-  </a>
-  <a href="https://zenn.dev/diwamoto">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/diwamoto/followers" />
-  </a>
-  <a href="https://zenn.dev/diwamoto">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/diwamoto/articles" />
-  </a>
-</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Diwamoto&count_private=true&show_icons=true" />
