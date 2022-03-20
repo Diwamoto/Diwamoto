@@ -4,7 +4,7 @@ $ whoami
 > Hi there 👋  I am Diwamoto!
 > I am a Junior Site Reliability Engineer.
 > I can Use PHP and GO.
-> I am currently learning AWS.
+> I am currently learning AWS　and iOS app.
 > I like to write code, play games, and make keyboards.
 > My motto is [If you do it, it will happen. If you dont, you won't do it.]
 ```
