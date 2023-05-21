@@ -3,9 +3,10 @@
 $ whoami
 > Hi there 👋  I am Diwamoto!
 > I am a Junior Site Reliability Engineer.
-> I can Use PHP and GO.
-> I am currently learning AWS　and iOS app.
+> I can Use PHP, Go, Python, And TypeScript
+> I am currently learning CloudNative Development with TypeScript or Python.
 > I like to write code, play games, and make keyboards.
+> I want to improve Japan through the power of IT.
 > My motto is [If you do it, it will happen. If you dont, you won't do it.]
 ```
 
