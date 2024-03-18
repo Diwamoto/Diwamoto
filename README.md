@@ -28,8 +28,8 @@ $ whoami
 </p>
 
 <p align="left"> 
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Diwamoto&count_private=true&show_icons=true&theme=nord" />
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwamoto&theme=nord&layout=compact" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Diwamoto&count_private=true&show_icons=true&theme=nord" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwamoto&theme=nord&layout=compact" />
 </p>
 
 <br>
