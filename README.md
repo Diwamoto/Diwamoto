@@ -27,10 +27,13 @@ $ whoami
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Diwamoto&count_private=true&show_icons=true&theme=codeSTACKr" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwamoto&theme=codeSTACKr" />
-</a>
+<p align="left"> 
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Diwamoto&count_private=true&show_icons=true&theme=nord" />
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwamoto&theme=nord&layout=compact" />
+</p>
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Diwamoto&theme=nord&column=9
+)](https://github.com/ryo-ma/github-profile-trophy)
 
