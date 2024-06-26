@@ -27,10 +27,12 @@ $ whoami
   </a>
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diwamoto&theme=nord_dark)
 
 <p align="left"> 
-  <img align="left" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diwamoto&theme=nord_dark" />
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwamoto&theme=nord&layout=compact" />
+  <img align="left" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diwamoto&theme=nord_dark" />
+  <img align="left" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diwamoto&theme=nord_dark" />
+  <img align="left" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diwamoto&theme=nord_dark" />
 </p>
 
 <br>
