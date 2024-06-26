@@ -13,8 +13,8 @@ $ whoami
   <a href="https://github.com/Diwamoto/">
     <img src="https://komarev.com/ghpvc/?username=diwamoto" alt="Diwamoto" />
   </a>
-  <a href="http://twitter.com/Diwamoto_">
-    <img height="20" src="https://img.shields.io/twitter/follow/Diwamoto_?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://x.com/Diwamoto_">
+    <img height="20" alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Diwamoto_">
   </a>
   <a href="https://github.com/Diwamoto">
     <img height="20" src="https://img.shields.io/github/followers/Diwamoto?label=follow&logo=github&style=flat" />
@@ -29,13 +29,10 @@ $ whoami
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diwamoto&theme=nord_dark)
 
-<p align="left"> 
-  <img align="left" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diwamoto&theme=nord_dark" />
-  <img align="left" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diwamoto&theme=nord_dark" />
-  <img align="left" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diwamoto&theme=nord_dark" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diwamoto&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diwamoto&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diwamoto&theme=nord_dark)
 
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Diwamoto&theme=nord&column=9
 )](https://github.com/ryo-ma/github-profile-trophy)
