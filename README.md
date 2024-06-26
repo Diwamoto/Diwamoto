@@ -27,8 +27,9 @@ $ whoami
   </a>
 </p>
 
+
 <p align="left"> 
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Diwamoto&count_private=true&show_icons=true&theme=nord" />
+  <img align="left" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diwamoto&theme=nord_dark" />
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwamoto&theme=nord&layout=compact" />
 </p>
 
